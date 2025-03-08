@@ -2,7 +2,8 @@
 
 A modern movie streaming platform built with cutting-edge technologies, offering a seamless and engaging user experience with real-time content updates and beautiful animations.
 
-![Project Preview](public/images/preview.png)
+![Ekran görüntüsü 2025-03-09 004629](https://github.com/user-attachments/assets/23792a42-3401-4212-8f71-4088b14813cc)
+
 
 ## 🚀 Features
 
