@@ -1,4 +1,4 @@
-# NextAI Movie Platform 🎬
+# NextJs Movie Platform 🎬
 
 A modern movie streaming platform built with cutting-edge technologies, offering a seamless and engaging user experience with real-time content updates and beautiful animations.
 
